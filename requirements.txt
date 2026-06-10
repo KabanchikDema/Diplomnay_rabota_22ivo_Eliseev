@@ -4,5 +4,7 @@ numpy
 scikit-learn
 joblib
 matplotlib
+folium
+streamlit-folium
 openpyxl
 plotly
